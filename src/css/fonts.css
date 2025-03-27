@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Railey'; /* Tên font bạn sẽ sử dụng */
+    src: url('../font/Railey-PersonalUse.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* Áp dụng font cho toàn bộ trang hoặc cho các phần tử cụ thể */
+  body {
+    font-family: 'Railey', sans-serif;
+  }
+  
